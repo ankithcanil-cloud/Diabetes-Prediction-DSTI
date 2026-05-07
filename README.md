@@ -38,7 +38,7 @@ The dataset is sourced from the **TAIPEI Diabetes Database** and contains health
 1. Clone the repository
 First, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Surya9810/Diabetes-Prediction-DSTI.git
+   git clone https://github.com/ankithcanil-cloud/Diabetes-Prediction-DSTI.git
    cd Diabetes-Prediction-DSTI
 
 2. Install Dependencies
